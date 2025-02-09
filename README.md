@@ -1,1 +1,0 @@
-# Copia_ejercicios_typescript
